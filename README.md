@@ -10,9 +10,9 @@ Observing the results of June and December, we can mention the following similar
 2) The standard deviation has only an aprox. 0.5 in difference.
 3) The percentiles kept in 25% and 50% the same gap of 3 units.
 
-![June Temperature Results] (https://github.com/JackieCortes/surfs_up/blob/main/D1_JuneT.PNG)
+![June Temperature Results](https://github.com/JackieCortes/surfs_up/blob/main/D1_JuneT.PNG)
 
-![December Temperature Results] (https://github.com/JackieCortes/surfs_up/blob/main/D2_DecT.PNG)
+![December Temperature Results](https://github.com/JackieCortes/surfs_up/blob/main/D2_DecT.PNG)
 
 
 ## **Summary: **
